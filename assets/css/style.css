@@ -864,12 +864,12 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   top: calc(100% + 12px);
   right: 0;
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: 8px;
+  flex-direction: column;
+  gap: 3px;
   width: max-content;
-  max-width: min(420px, calc(100vw - 32px));
-  padding: 12px;
+  min-width: 190px;
+  max-width: min(240px, calc(100vw - 32px));
+  padding: 8px;
   background: var(--surface-2);
   border: 1px solid var(--line-strong);
   border-radius: 16px;
@@ -886,32 +886,34 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   .lang-panel {
     position: fixed;
     top: 88px;
-    left: 12px;
+    left: auto;
     right: 12px;
-    width: auto;
-    max-width: none;
-    justify-content: center;
+    width: max-content;
+    min-width: 190px;
+    max-width: min(240px, calc(100vw - 24px));
   }
 }
 
 .lang-option {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 4px;
-  padding: 9px 13px;
-  border-radius: 11px;
+  flex-direction: row;
+  align-items: baseline;
+  gap: 10px;
+  padding: 10px 12px;
+  border-radius: 10px;
   border: 1px solid transparent;
-  background: var(--surface);
+  background: transparent;
   cursor: pointer;
-  transition: background-color 200ms, border-color 200ms, transform 200ms var(--ease-spring);
-  min-width: 66px;
+  transition: background-color 200ms, border-color 200ms;
+  width: 100%;
+  text-align: left;
 }
-.lang-option:hover { transform: translateY(-2px); border-color: var(--line-strong); }
+.lang-option:hover { background: var(--surface); border-color: var(--line-strong); }
 .lang-option.active { border-color: var(--gold); background: rgba(201,162,39,0.12); }
-.lang-option .lang-code { font-size: 12.5px; font-weight: 700; color: var(--cream); letter-spacing: 0.03em; }
+.lang-option .lang-code { font-size: 12.5px; font-weight: 700; color: var(--cream); letter-spacing: 0.03em; flex-shrink: 0; width: 34px; }
 .lang-option.active .lang-code { color: var(--gold-light); }
-.lang-option .lang-name { font-size: 10.5px; color: var(--muted-2); }
+.lang-option .lang-name { font-size: 12.5px; color: var(--muted-2); }
+.lang-option.active .lang-name { color: var(--cream); }
 
 /* footer persistent language row */
 .lang-row { display: flex; flex-wrap: wrap; gap: 8px; }
