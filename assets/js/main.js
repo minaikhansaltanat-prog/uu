@@ -376,6 +376,7 @@
       initFloatingCta();
       initPopup();
       initForms();
+      if (window.UUI18n) window.UUI18n.init();
     });
     initReveals();
     initCountUp();

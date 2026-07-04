@@ -1,0 +1,502 @@
+{
+  "about": {
+    "audience": {
+      "col1": "Segment",
+      "col2": "Description",
+      "col3": "What they look for in UU?",
+      "eyebrow": "Who is it for?",
+      "r1c1": "Export-oriented entrepreneur",
+      "r1c2": "Wants to ship goods to China/Central Asia",
+      "r1c3": "Khorgos hub, certification, logistics",
+      "r2c1": "Importer / distributor",
+      "r2c2": "Wants to bring in goods/technology from China",
+      "r2c3": "Vetted manufacturer, negotiation venue",
+      "r3c1": "Chinese/foreign investor",
+      "r3c2": "Looking for a project in Kazakhstan",
+      "r3c3": "Vetted projects, the UU Investment network",
+      "r4c1": "Central Asian partner",
+      "r4c2": "Wants to enter the regional trade corridor",
+      "r4c3": "5-country network, joint exports",
+      "r5c1": "New entrepreneur",
+      "r5c2": "No international connections yet",
+      "r5c3": "Mentorship, language and liaison support",
+      "title": "Target audience"
+    },
+    "cta": { "title": "Become a UU member — the Khorgos hub is open to you" },
+    "gov": {
+      "col1": "Level",
+      "col2": "Function",
+      "eyebrow": "Structure",
+      "r1c1": "Presidium (Supreme Council)",
+      "r1c2": "Respected entrepreneurs and experts from both countries — approve strategic direction",
+      "r2c1": "Executive Directorate",
+      "r2c2": "Executive director + international relations, IT, legal and finance departments — day-to-day operations",
+      "r3c1": "Khorgos Hub Management",
+      "r3c2": "Operational team of the Khorgos office and hotel — hosting partners, arranging negotiations",
+      "r4c1": "Country representations",
+      "r4c2": "Coordinators in China, Uzbekistan, Kyrgyzstan, Tajikistan, Turkey and the USA — local partnership",
+      "title": "Governance structure"
+    },
+    "hero": {
+      "lead": "We are not just an association. We are a system that takes entrepreneurs from Kazakhstan, China and Central Asia all the way to a real deal. We operate in the corridor shaped since 2013 under the Belt and Road Initiative.",
+      "title": "UU — the business corridor of East and West"
+    },
+    "history": {
+      "eyebrow": "Historical foundation",
+      "lead": "This section shows UU's historical and strategic foundation — why now, and why this corridor.",
+      "title": "Our history — the Belt and Road Initiative and UU",
+      "today_label": "Today",
+      "today_text": "UU was founded right inside this historic corridor — as a real point of connection for entrepreneurs.",
+      "y2012": "The Khorgos International Border Cooperation Centre opened — today it brings together goods from over 1,200 enterprises across more than 40 countries.",
+      "y2013": "President Xi Jinping of the People's Republic of China first announced the \"Silk Road Economic Belt\" initiative to the world at Nazarbayev University in Astana. From that moment, Kazakhstan became a strategic corridor of the initiative.",
+      "y2026": "A mutual visa-free regime was introduced between Kazakhstan and China — traffic through Khorgos reached a record level."
+    },
+    "meta": {
+      "description": "UU's mission, history, values and governance structure. A trusted partner in the Kazakhstan–China corridor.",
+      "title": "About the Association — UU"
+    },
+    "mission": {
+      "chip": "Mission",
+      "text": "UU is an open ecosystem, built under the Belt and Road Initiative, that brings together entrepreneurs from Kazakhstan, China and Central Asia and accelerates trade and economic ties between them. Through the Khorgos hub we turn partnership from words into action."
+    },
+    "partners": {
+      "eyebrow": "Government and institutional partners",
+      "p1": "Atameken National Chamber of Entrepreneurs of the RK",
+      "p2": "CCPIT · China Council for the Promotion of International Trade",
+      "p3": "Kazakhstan–China Business Council",
+      "p4": "\"Yel Agalary\" Association",
+      "p5": "Damu Entrepreneurship Development Fund",
+      "p6": "Khorgos International Border Cooperation Centre Administration",
+      "p7": "Amanat Party",
+      "p8": "Higher education institutions"
+    },
+    "values": {
+      "eyebrow": "Principles",
+      "title": "Core values",
+      "v1": { "text": "We are a real bridge connecting East and West.", "title": "Connection" },
+      "v2": { "text": "Memorandum, agreement, promise — everything is confirmed on paper.", "title": "Reliability" },
+      "v3": { "text": "We work through cross-cultural respect and open dialogue.", "title": "Openness" },
+      "v4": { "text": "Not a meeting — a deal. Not a forum — a contract.", "title": "Results focus" },
+      "v5": { "text": "We put the interests of Kazakhstani entrepreneurs first.", "title": "National interest" }
+    },
+    "vision": {
+      "chip": "Vision — 2030",
+      "text": "By 2030, UU will be the most trusted entrepreneurs' association in the Kazakhstan–China–Central Asia corridor: partnerships in 6 countries, expanded infrastructure built around the Khorgos hub, and thousands of real, completed deals."
+    },
+    "why": {
+      "b1": "<strong style=\"color:var(--gold-light);\">01 —</strong> Many Kazakhstani entrepreneurs dream of entering the Chinese market but never start, lacking language, connections and a system of trust. UU closes that gap.",
+      "b2": "<strong style=\"color:var(--gold-light);\">02 —</strong> The Belt and Road corridor has infrastructure, but using it at the entrepreneur level is complicated. UU shortens that path through the Khorgos hub.",
+      "b3": "<strong style=\"color:var(--gold-light);\">03 —</strong> Central Asian entrepreneurs tend to approach China individually rather than together. UU builds a joint force through one shared platform.",
+      "b4": "<strong style=\"color:var(--gold-light);\">04 —</strong> Official memorandums and ties often stay at the intergovernmental level and never reach the entrepreneur. UU turns these connections into real business opportunity.",
+      "heading": "Answering the question \"Why was UU founded?\":"
+    }
+  },
+  "common": {
+    "aria": { "next": "Next", "prev": "Previous" },
+    "brand": { "subtitle": "KZ · CN · Central Asia" },
+    "country": {
+      "cn": "China",
+      "kg": "Kyrgyzstan",
+      "kz": "Kazakhstan",
+      "other": "Other",
+      "tj": "Tajikistan",
+      "tr": "Turkey",
+      "us": "USA",
+      "uz": "Uzbekistan"
+    },
+    "cta": {
+      "all_reviews": "See all reviews →",
+      "member_connect": "Become a member — get in touch →",
+      "member_short": "Become a member →",
+      "member_want": "I want to become a member →"
+    },
+    "final": { "text": "Leave your contact details — a manager will get in touch." },
+    "footer": {
+      "address": "Kaskelen, Karasai District, Almaty Region",
+      "copyright": "© 2026 UU — Kazakhstan–China–Central Asia Entrepreneurs Association · uu.kz",
+      "description": "An ecosystem, built under the Belt and Road Initiative, that unites entrepreneurs from Kazakhstan, China and Central Asia.",
+      "legal_rep": "Kazakhstan-side representative: SAMGA-NIITS LLP · BIN 251240024285",
+      "legal_rep_chip": "Kazakhstan-side representative",
+      "nav_heading": "Navigation",
+      "tagline": "\"One road, a thousand opportunities. East and West grow together.\""
+    },
+    "form": {
+      "country": "Country",
+      "country_ph": "Select your country",
+      "email": "Email",
+      "email_ph": "email@company.com",
+      "industry": "Business sector",
+      "industry_ph": "Select a sector",
+      "message": "Message",
+      "name": "Full name",
+      "name_ph": "Your full name",
+      "phone": "Phone number",
+      "phone_ph": "+7 (___) ___-__-__",
+      "success_chip": "✓ Received"
+    },
+    "industry": {
+      "i1": "Agriculture",
+      "i10": "Tourism & HORECA",
+      "i11": "Construction & real estate",
+      "i12": "Export-import",
+      "i2": "Livestock farming",
+      "i3": "Rural development",
+      "i4": "IT & artificial intelligence",
+      "i5": "Manufacturing & industry",
+      "i6": "Trade & retail",
+      "i7": "Healthcare & medicine",
+      "i8": "Education & HR",
+      "i9": "Finance & investment"
+    },
+    "nav": {
+      "about": "About the Association",
+      "community": "Community",
+      "contact": "Contact",
+      "directions": "Directions",
+      "home": "Home",
+      "international": "International Relations",
+      "khorgos": "Khorgos Hub",
+      "membership": "Membership",
+      "people": "Community People",
+      "people_short": "People",
+      "reviews": "Reviews",
+      "services": "Services"
+    },
+    "popup": {
+      "eyebrow": "UU Association",
+      "note": "Your data is never shared with third parties. No spam.",
+      "phone_label": "Phone number",
+      "success_text": "Thank you! A manager will contact you shortly.",
+      "text": "Leave your contact details — a manager will reach out and answer all your questions about the association.",
+      "title": "Want to learn more about UU?"
+    },
+    "t": {
+      "erlan": { "quote": "Through UU's Khorgos hub we closed a deal with a Chinese partner in a single day.", "role": "Export entrepreneur" },
+      "liwei": { "quote": "We showed a product sample directly at the Khorgos office and signed the contract right there." }
+    },
+    "testimonials": { "eyebrow": "Voice of trust", "title": "What our partners say" }
+  },
+  "contact": {
+    "card": {
+      "hours_label": "Working hours",
+      "hours_value": "Monday–Friday, 09:00–18:00",
+      "khorgos_address": "Khorgos International Border Cooperation Centre, UU office and hotel <span style=\"color:var(--muted-2); font-size:12.5px;\">(to be confirmed)</span>",
+      "khorgos_label": "Khorgos hub",
+      "messengers_label": "WhatsApp / Telegram / WeChat",
+      "office_label": "Kazakhstan office",
+      "wechat_soon": "WeChat — coming soon"
+    },
+    "form": {
+      "message_ph": "Your question, or a short note about your business...",
+      "submit": "SEND REQUEST →",
+      "success_text": "Thank you! A manager will contact you within 24 hours.",
+      "title": "Leave a request"
+    },
+    "hero": {
+      "lead": "Have a membership question? Proposing a partnership? Need a trip to the Khorgos hub? A manager will respond within 24 hours.",
+      "title": "Get in touch with us"
+    },
+    "legal": {
+      "address_line": "Address: Kaskelen, Karasai District, Almaty Region, Kokbastau Street, office 5",
+      "company_name": "SAMGA-NIITS LLP"
+    },
+    "meta": {
+      "description": "Contact UU. Membership, partnership, a trip to Khorgos. A manager will respond within 24 hours.",
+      "title": "Contact — UU"
+    },
+    "office": { "address": "Kaskelen, Karasai District, Almaty Region, Kokbastau Street, office 5" }
+  },
+  "directions": {
+    "cta": { "title": "Find your direction — connect with our industry experts" },
+    "d1": { "leader": "Lead: sector specialist / academic", "text": "Grain, horticulture, agri-tech. Certification and preparation for export to China." },
+    "d10": { "leader": "Lead: tourism entrepreneur", "text": "Domestic and cross-border tourism, hospitality. Khorgos tours." },
+    "d11": { "leader": "Lead: construction company head", "text": "Development, materials. Khorgos infrastructure projects." },
+    "d12": { "leader": "Lead: foreign trade specialist", "text": "Trade operations across China, Central Asia, Turkey and the USA." },
+    "d2": { "leader": "Lead: rural entrepreneur / veterinary specialist", "text": "Meat, dairy, wool, veterinary services. Export preparation, certification." },
+    "d3": { "leader": "Lead: regional development expert", "text": "Rural infrastructure, cooperatives. Opportunities in border areas." },
+    "d4": { "leader": "Lead: IT expert", "text": "Digital solutions, AI, automation. Technology transfer with China." },
+    "d5": { "leader": "Lead: industrial entrepreneur", "text": "Light industry, processing. Joint production projects." },
+    "d6": { "leader": "Lead: trade network owner", "text": "Online/offline retail, marketplaces. Wholesale trade through Khorgos." },
+    "d7": { "leader": "Lead: healthcare entrepreneur", "text": "Clinics, pharmaceuticals. Links with Chinese equipment and medicine suppliers." },
+    "d8": { "leader": "Lead: education entrepreneur", "text": "Training centres, Chinese-language preparation. Staff exchange programmes." },
+    "d9": { "leader": "Lead: finance expert", "text": "Fundraising, fintech. The UU Investment network." },
+    "hero": {
+      "eyebrow": "Clusters",
+      "lead": "UU is more than a general association. 12 specialised industry directions — each tailored to entering the Chinese and Central Asian markets. Every direction is led by a sector specialist or an experienced entrepreneur.",
+      "title": "12 directions — a trade corridor for your industry"
+    },
+    "meta": {
+      "description": "12 specialised industry directions: agriculture, IT, export and more. Each led by a sector specialist.",
+      "title": "12 Directions — UU"
+    }
+  },
+  "home": {
+    "final": { "title": "Ready to find a partner?" },
+    "hero": {
+      "cta_khorgos": "Learn about the Khorgos hub →",
+      "eyebrow": "一带一路 · The Belt and Road Initiative",
+      "lead": "UU is an entrepreneurs' association from Kazakhstan, China and Central Asia, operating under the Belt and Road Initiative. Through our own hub on the Khorgos border, we turn partnership into a real deal in a matter of hours.",
+      "title": "One road — a thousand opportunities.<br>\n          <span class=\"text-gold-gradient\">East meets West</span> right here."
+    },
+    "lead": {
+      "note": "Your data is stored securely. No spam.",
+      "success_text": "A manager will reach out shortly.",
+      "text": "Leave your contact details — a manager will reach out within 24 hours.",
+      "title": "Want to become a UU member?"
+    },
+    "meta": {
+      "description": "UU is an entrepreneurs' association operating under the Belt and Road Initiative. Khorgos hub, partnerships across 6 countries.",
+      "title": "UU — Kazakhstan–China–Central Asia Entrepreneurs Association"
+    },
+    "problem": {
+      "eyebrow": "Sound familiar?",
+      "p1": "\"I want to enter the Chinese market, but there's a language and communication barrier\"",
+      "p2": "\"I want to fly to China to find a partner — visas, logistics and time all add up\"",
+      "p3": "\"I don't know how an official memorandum or partnership even gets set up\"",
+      "p4": "\"The path into Central Asian markets is unclear\"",
+      "p5": "\"Certification and customs procedures for export are difficult\"",
+      "p6": "\"I'm looking for an investor but don't know who to trust\"",
+      "title": "The entrepreneur's problem — UU's solution"
+    },
+    "solution": {
+      "s1": "UU's Khorgos office and translation/liaison service solve it directly",
+      "s2": "At the Khorgos hub — meetings, negotiations and product samples, all in a single day",
+      "s3": "You connect quickly through UU's existing memorandum with Chinese chambers",
+      "s4": "A 5-country regional partnership network, accessible through one platform",
+      "s5": "UU has experienced logistics and customs intermediaries",
+      "s6": "A network of vetted Chinese and domestic investors"
+    },
+    "stat": {
+      "countries": "country partnerships",
+      "directions": "industry directions",
+      "khorgos_hub": "Khorgos hub",
+      "since": "years in the corridor"
+    },
+    "t": {
+      "dinara": { "quote": "Through the memorandum network, our connection with a partner in Tashkent was established very quickly.", "role": "Textile manufacturer" },
+      "liwei": { "role": "Chinese partner" }
+    },
+    "why": {
+      "card1": { "text": "A private hotel and office — the fastest meeting point for Central Asian and Chinese business. Visa and logistics friction is kept to a minimum.", "title": "01 · Khorgos Hub" },
+      "card2": { "text": "Partnerships signed with major Chinese business associations and the chamber of entrepreneurs, as well as political-business organisations in Kazakhstan.", "title": "02 · Official memorandums" },
+      "card3": { "text": "China, Uzbekistan, Kyrgyzstan, Tajikistan, Turkey, the USA — all accessible through one association.", "title": "03 · A 6-country international network" },
+      "card4": { "text": "From agriculture to IT — every direction is led by a sector specialist.", "title": "04 · 12 industry directions" },
+      "card5": { "text": "Not promises — a real deal, a vetted partner, a measurable result.", "title": "05 · Results focus" },
+      "card6": { "text": "From translation to customs procedures — a single-window principle.", "title": "06 · Full-service support" },
+      "eyebrow": "Advantages",
+      "title": "Why UU?"
+    }
+  },
+  "intl": {
+    "china": {
+      "chip": "Strategic priority",
+      "col1": "Partner",
+      "col2": "Cooperation format",
+      "r1c1": "China Council for the Promotion of International Trade (CCPIT)",
+      "r1c2": "Official memorandum, joint forums and B2B meetings",
+      "r2c1": "Regional Chinese business associations",
+      "r2c2": "Direct partnership, ongoing contact through the Khorgos hub",
+      "r3c1": "Chinese investment and trade chambers",
+      "r3c2": "Investment attraction, joint-project screening",
+      "text": "China is Kazakhstan's major trading partner and the starting point of the Belt and Road Initiative. UU is officially partnered, on a memorandum basis, with various Chinese business associations and the country's top chamber of entrepreneurs."
+    },
+    "country": {
+      "kg": { "dir": "Partnership with export and SME associations", "name": "Kyrgyzstan", "opp": "Opportunity: livestock, agriculture" },
+      "tj": { "dir": "Relationship with the chamber of industry", "name": "Tajikistan", "opp": "Opportunity: garment manufacturing, fruit and berry products" },
+      "tr": { "dir": "Memorandum with the Turkish chamber of entrepreneurs", "name": "Turkey", "opp": "Opportunity: textiles, construction, logistics" },
+      "us": { "dir": "Relationship with the America–Kazakhstan Business Council", "name": "USA", "opp": "Opportunity: investment, technology transfer" },
+      "uz": { "dir": "Memorandum with chambers of entrepreneurs, trade corridor", "name": "Uzbekistan", "opp": "Opportunity: textiles, food, tourism" }
+    },
+    "cta": { "button": "Get in touch →", "title": "Looking for an international partner?" },
+    "goals": {
+      "eyebrow": "Direction",
+      "g1": "Bring entrepreneurs from 6 countries together on one platform",
+      "g2": "Direct entry into the Chinese market through the Khorgos hub",
+      "g3": "Develop the trade corridor within Central Asia",
+      "g4": "Prepare domestic products for export — certification, standards",
+      "g5": "Bring intergovernmental ties down to the entrepreneur level through memorandums",
+      "g6": "Organise joint investment and forums",
+      "title": "Key goals"
+    },
+    "hero": {
+      "eyebrow": "6 countries · 1 ecosystem",
+      "lead": "UU operates on an official memorandum basis with leading business structures in China, the Central Asian countries, Turkey and the USA.",
+      "title": "One association — six countries"
+    },
+    "meta": {
+      "description": "UU's memorandums and partnerships with China, Uzbekistan, Kyrgyzstan, Tajikistan, Turkey and the USA.",
+      "title": "International Relations — UU"
+    },
+    "network": { "eyebrow": "Regional network", "title": "The Central Asia, Turkey and USA partnership network" },
+    "roadmap": {
+      "eyebrow": "Roadmap",
+      "title": "Development roadmap",
+      "y2026": "The Khorgos hub is fully operational. Memorandums signed with Uzbekistan and Kyrgyzstan.",
+      "y2027": "The Tajikistan and Turkey network joins. First Kazakhstan–China Business Forum (Almaty).",
+      "y2028": "The US direction opens. Joint export deals pass the 100 mark.",
+      "y2030": "UU becomes the region's most trusted Kazakhstan–China–Central Asia corridor."
+    }
+  },
+  "khorgos": {
+    "cta": { "button": "Request a trip →", "title": "Ready to find a partner at the Khorgos hub?" },
+    "hero": {
+      "cta": "Arrange a trip to the Khorgos hub →",
+      "eyebrow": "UU's key advantage",
+      "lead": "UU's private hotel and office on the Kazakhstan–China border — the fastest meeting point for Central Asian entrepreneurs and Chinese business. One trip, one deal.",
+      "title": "Khorgos — not a border, an opportunity"
+    },
+    "meta": {
+      "description": "UU's private hotel and office on the Khorgos border. A meeting point for Chinese and Central Asian entrepreneurs.",
+      "title": "Khorgos Hub — UU"
+    },
+    "steps": {
+      "eyebrow": "Process",
+      "s1": { "text": "Become a UU member and book your Khorgos trip.", "title": "Application" },
+      "s2": { "text": "UU selects a matching Chinese or regional company from its partner database.", "title": "Matching" },
+      "s3": { "text": "Face-to-face negotiations at the Khorgos hub, product sample review.", "title": "Meeting" },
+      "s4": { "text": "Contract, customs and logistics support — UU provides full assistance.", "title": "Deal" },
+      "title": "The Khorgos path — 4 steps"
+    },
+    "what": {
+      "c1": { "text": "Stay together with your partners and arrange a meeting at any time.", "title": "Private hotel" },
+      "c2": { "text": "Official negotiations with an interpreter and lawyer present.", "title": "Direct negotiation rooms" },
+      "c3": { "text": "Chinese partners showcase their products right here.", "title": "Product showroom" },
+      "c4": { "text": "The deal is formalised on the spot with legal support.", "title": "Contract signing" },
+      "c5": { "text": "Map out your shipment's route without leaving the hub.", "title": "Logistics and customs consulting" },
+      "c6": { "text": "The language barrier is fully removed.", "title": "Translation and liaison services" },
+      "eyebrow": "Opportunities",
+      "title": "What can you do at the Khorgos hub?"
+    },
+    "why": {
+      "p1": "The Khorgos International Border Cooperation Centre — a free trade zone operating since 2012, today bringing together goods from <strong style=\"color:var(--gold-light);\">over 1,200 enterprises</strong> and <strong style=\"color:var(--gold-light);\">more than 40 countries</strong>.",
+      "p2": "Since 2026, a <strong style=\"color:var(--gold-light);\">mutual visa-free regime</strong> has been in force between Kazakhstan and China — giving UU's partners a faster border crossing than ever before.",
+      "p3": "UU's own office and hotel are located right in this zone — you negotiate as an official guest, without visa or logistics worries.",
+      "source": "Source: official data on the Khorgos International Border Cooperation Centre and the Kazakhstan–China visa-free regime will be confirmed before final production."
+    }
+  },
+  "membership": {
+    "benefits": {
+      "b1": "Access to the Khorgos hub — private meetings, negotiation rooms",
+      "b2": "Direct access to the China and Central Asia partner database",
+      "b3": "Official memorandum-based relationships (CCPIT and other chambers)",
+      "b4": "Translation, legal and customs liaison services",
+      "b5": "Support from sector experts across 12 industry directions",
+      "b6": "Help finding investors and preparing your pitch",
+      "b7": "B2B networking — vetted partners",
+      "b8": "UU App — membership, partner database and news, all in one app",
+      "b9": "Forums, business trips, Khorgos excursions",
+      "eyebrow": "Benefits",
+      "title": "What do you get?"
+    },
+    "final": { "title": "Want to become a member?" },
+    "form": {
+      "lead": "Leave your contact details — a manager will reach out within 24 hours and share all the information. No obligations.",
+      "message_ph": "Briefly: about your business or your question...",
+      "success_text": "Thank you! A manager will contact you within 24 hours and answer all your questions.",
+      "title": "Want to become a member?"
+    },
+    "hero": {
+      "eyebrow": "A tariff-free invitation",
+      "lead": "UU is an entrepreneurs' association working across Kazakhstan, China and Central Asia. The Khorgos hub, a memorandum network, translation and customs support — all in one place. To get the full membership details, leave your contact details and a manager will reach out.",
+      "title": "One step away from membership"
+    },
+    "meta": {
+      "description": "Become a UU member. Leave your contact details — a manager will share all the information.",
+      "title": "Membership — UU"
+    },
+    "t": {
+      "berik": { "quote": "Through the memorandum network we quickly gained access to an official partnership.", "role": "Company director" },
+      "dinara": { "quote": "We showed a product sample at the Khorgos hub and closed the deal right there." },
+      "erlan": { "quote": "Thanks to UU, our connection with a Chinese partner went from 6 months to 3 weeks." }
+    },
+    "trust": { "eyebrow": "Trust block", "title": "What our members say" }
+  },
+  "people": {
+    "c1": { "text": "Successful entrepreneurs and company executives from Kazakhstan, China and Central Asia", "title": "01 · Businesspeople" },
+    "c2": { "text": "Private and institutional investors allocating funds to projects", "title": "02 · Investors" },
+    "c3": { "text": "Political representatives supporting entrepreneurship at the state level", "title": "03 · Politicians" },
+    "c4": { "text": "Intermediary agents for trade, logistics and negotiations", "title": "04 · Agents" },
+    "c5": { "text": "Leaders of state and private organisations", "title": "05 · Executives" },
+    "c6": { "text": "Experienced specialists in law, finance, customs and certification", "title": "06 · Specialists" },
+    "c7": { "text": "Senior leadership of major companies", "title": "07 · Top managers" },
+    "c8": { "text": "Academic and scientific experts in their fields", "title": "08 · Scholars" },
+    "cta": { "title": "Join the people of the community" },
+    "hero": {
+      "eyebrow": "Connection and experience",
+      "lead": "From businesspeople to scholars — the people gathered around UU are the association's real strength. Each category features a profile: name, position, country, achievement.",
+      "title": "The people of UU"
+    },
+    "meta": {
+      "description": "Businesspeople, investors, politicians, scholars and other people around UU.",
+      "title": "Community People — UU"
+    },
+    "note": "Profiles in each category are being filled in gradually. Authorised members and partners will be featured here going forward."
+  },
+  "reviews": {
+    "cat": {
+      "central_asia": "Central Asian partner",
+      "china": "Chinese partner",
+      "investor": "Investor",
+      "member_kz": "Member · Kazakhstan"
+    },
+    "cta": { "title": "Want to share your experience?" },
+    "g1": "Partnership meeting",
+    "g10": "Cooperation meeting",
+    "g11": "Delegation trip",
+    "g12": "Business meeting",
+    "g13": "Partnership trip",
+    "g2": "International delegation",
+    "g3": "Negotiation table",
+    "g4": "Official meeting",
+    "g5": "Delegation members",
+    "g6": "Business forum",
+    "g7": "Meeting with partners",
+    "g8": "International liaison",
+    "g9": "Contract signing",
+    "gallery": {
+      "eyebrow": "Gallery",
+      "lead": "Moments from UU's partners at the Khorgos hub and on international delegations.",
+      "note": "These photos are placeholders — they'll be updated as the project develops.",
+      "title": "Meetings and negotiations"
+    },
+    "hero": { "lead": "From the Khorgos hub to the memorandum network — the real experience of UU's members and partners." },
+    "meta": {
+      "description": "Real reviews and results from UU's members and international partners.",
+      "title": "Reviews — UU"
+    },
+    "t": {
+      "dinara": { "role": "Textile manufacturer" },
+      "dinara_investor": { "quote": "A vetted project database and UU's facilitation made the decision much easier." },
+      "erlan": { "quote": "With UU we closed our first export deal in 3 weeks." },
+      "jasur": { "quote": "Thanks to the UU network, our path into the Kazakhstani market got much shorter.", "role": "Uzbekistani entrepreneur" },
+      "liwei": { "quote": "The Khorgos hub is the most convenient meeting place, for us and for our Kazakhstani partners alike.", "role": "Company director" }
+    }
+  },
+  "services": {
+    "cta": { "button": "Become a member — access the services →" },
+    "hero": {
+      "eyebrow": "10 directions",
+      "lead": "UU offers services across 10 directions — from memorandums to the Khorgos hub. A specialist earns a commission only once a result is delivered, which sets us apart from other intermediary organisations.",
+      "note": "Not a promise — a result. Commission is charged only once a real result is achieved.",
+      "title": "Real connections — real deals"
+    },
+    "hub": {
+      "chip": "The UU Khorgos hub — a special service",
+      "text": "The Khorgos hub's operations team speeds up entrepreneurs' deals through partner sourcing, meeting arrangements, translation and legal support."
+    },
+    "meta": {
+      "description": "10 service directions: memorandums, translation, logistics, investment. A no-result, no-fee principle.",
+      "title": "Services — UU"
+    },
+    "s1": { "text": "Establishing partnerships with Chinese and Central Asian chambers, preparing official documents.", "title": "Organising official relations and memorandums", "trigger": "Charged: once the memorandum is signed" },
+    "s10": { "badge": "Negotiable", "text": "Courses on market entry, customs and logistics.", "title": "Export training and seminars", "trigger": "Charged: once the course is completed" },
+    "s2": { "text": "Full language support during negotiations, documents and meetings.", "title": "Translation and cross-cultural liaison", "trigger": "Charged: once the service is delivered" },
+    "s3": { "text": "Finding a matching partner, arranging the meeting at the hub.", "title": "Arranging partner meetings through the Khorgos hub", "trigger": "Charged: once the meeting takes place" },
+    "s4": { "text": "Planning cargo movement, customs documentation.", "title": "Logistics and customs clearance", "trigger": "Charged: once the goods clear" },
+    "s5": { "text": "Bringing products in line with international standards.", "title": "Certification and export standardisation", "trigger": "Charged: once the certificate is obtained" },
+    "s6": { "text": "Finding investors, preparing the pitch deck, arranging meetings.", "title": "Investment fundraising and pitch preparation", "trigger": "Charged: once investment is secured" },
+    "s7": { "text": "Legal advice on contracts and customs law.", "title": "International legal support", "trigger": "Charged: once advice is given" },
+    "s8": { "text": "A concrete report on the sector, pricing and competition.", "title": "Market-entry analysis (China/Central Asia)", "trigger": "Charged: once the report is delivered" },
+    "s9": { "text": "Joint projects among entrepreneurs within UU.", "title": "B2B networking and partnership", "trigger": "Charged: once the partnership is formed" }
+  }
+}

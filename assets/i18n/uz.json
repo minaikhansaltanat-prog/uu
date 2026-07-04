@@ -1,0 +1,502 @@
+{
+  "about": {
+    "audience": {
+      "col1": "Segment",
+      "col2": "Tavsif",
+      "col3": "Ular UU'da nimani izlaydi?",
+      "eyebrow": "Kim uchun?",
+      "r1c1": "Eksportchi tadbirkor",
+      "r1c2": "Xitoy/Markaziy Osiyoga tovar yetkazib bermoqchi",
+      "r1c3": "Xorgos xabi, sertifikatlash, logistika",
+      "r2c1": "Importchi / distribyutor",
+      "r2c2": "Xitoydan tovar/texnologiya olib kelmoqchi",
+      "r2c3": "Tekshirilgan ishlab chiqaruvchi, muzokara maydoni",
+      "r3c1": "Xitoylik/xorijiy investor",
+      "r3c2": "Qozog'istondan loyiha izlamoqda",
+      "r3c3": "Tekshirilgan loyihalar, UU Investment tarmog'i",
+      "r4c1": "Markaziy Osiyolik hamkor",
+      "r4c2": "Mintaqaviy savdo yo'lagiga kirmoqchi",
+      "r4c3": "5 mamlakatlik tarmoq, birgalikda eksport",
+      "r5c1": "Yangi tadbirkor",
+      "r5c2": "Xalqaro aloqasi yo'q",
+      "r5c3": "Nastavniklik, til va aloqa vositachiligi",
+      "title": "Maqsadli auditoriya"
+    },
+    "cta": { "title": "UU a'zosi bo'ling — Xorgos xabi sizga ochiq" },
+    "gov": {
+      "col1": "Daraja",
+      "col2": "Vazifasi",
+      "eyebrow": "Tuzilma",
+      "r1c1": "Prezidium (Bosh Kengash)",
+      "r1c2": "Ikki mamlakatning nufuzli tadbirkorlari va ekspertlari — strategik yo'nalishni tasdiqlaydi",
+      "r2c1": "Ijroiya Direksiya",
+      "r2c2": "Ijrochi direktor + xalqaro aloqalar, IT, huquq, moliya bo'limlari — kundalik ish",
+      "r3c1": "Xorgos Xab Boshqarmasi",
+      "r3c2": "Xorgos ofisi va mehmonxonasining operatsion jamoasi — hamkorlarni qabul qilish, muzokaralarni tashkil etish",
+      "r4c1": "Mamlakat vakilliklari",
+      "r4c2": "Xitoy, O'zbekiston, Qirg'iziston, Tojikiston, Turkiya, AQShdagi koordinatorlar — mahalliy hamkorlik",
+      "title": "Boshqaruv tuzilmasi"
+    },
+    "hero": {
+      "lead": "Biz oddiy uyushma emasmiz. Biz — Qozog'iston, Xitoy va Markaziy Osiyo tadbirkorlarini haqiqiy bitimga yetkazadigan tizimmiz. «Bir kamar, bir yo'l» tashabbusi doirasida 2013-yildan beri shakllangan yo'lakda ishlaymiz.",
+      "title": "UU — Sharq va G'arbning biznes yo'lagi"
+    },
+    "history": {
+      "eyebrow": "Tarixiy asos",
+      "lead": "Ushbu blok UU'ning tarixiy va strategik asosini ko'rsatadi — nega aynan hozir, nega aynan shu yo'lak.",
+      "title": "Bizning tariximiz — «Bir kamar, bir yo'l» va UU",
+      "today_label": "Bugun",
+      "today_text": "UU aynan shu tarixiy yo'lak ichida — tadbirkorlar uchun haqiqiy aloqa nuqtasi sifatida tashkil etilgan.",
+      "y2012": "Xorgos xalqaro chegara hamkorlik markazi (XXHM) ochildi — bugungi kunda bu yerda 1200 dan ortiq korxona va 40 dan ortiq mamlakat tovarlari jamlangan.",
+      "y2013": "Xitoy Xalq Respublikasi Raisi Si Szinpin Ostonadagi Nazarboyev Universitetida «Ipak yo'lining iqtisodiy kamari» tashabbusini dunyoga birinchi bo'lib e'lon qildi. Shu lahzadan boshlab Qozog'iston tashabbusning strategik yo'lagiga aylandi.",
+      "y2026": "Qozog'iston va Xitoy o'rtasida o'zaro vizasiz rejim joriy etildi — Xorgos orqali o'tuvchi oqim rekord darajaga yetdi."
+    },
+    "meta": {
+      "description": "UU missiyasi, tarixi, qadriyatlari, boshqaruv tuzilmasi. Qozog'iston–Xitoy yo'lagidagi ishonchli hamkor.",
+      "title": "Uyushma haqida — UU"
+    },
+    "mission": {
+      "chip": "Missiya",
+      "text": "UU — «Bir kamar, bir yo'l» dasturi doirasida Qozog'iston, Xitoy va Markaziy Osiyo tadbirkorlarini birlashtiruvchi, ular o'rtasidagi savdo-iqtisodiy aloqalarni tezlashtiruvchi ochiq ekotizim. Xorgos xabi orqali hamkorlikni so'zdan ishga aylantiramiz."
+    },
+    "partners": {
+      "eyebrow": "Davlat va institutsional hamkorlar",
+      "p1": "QR Tadbirkorlar palatasi",
+      "p2": "CCPIT · Xitoy savdo-sanoat palatasi",
+      "p3": "Qozog'iston–Xitoy biznes kengashi",
+      "p4": "«Yel agalari» uyushmasi",
+      "p5": "Damu banki",
+      "p6": "Xorgos XXHM ma'muriyati",
+      "p7": "Amanat partiyasi",
+      "p8": "Oliy ta'lim muassasalari"
+    },
+    "values": {
+      "eyebrow": "Tamoyillar",
+      "title": "Asosiy qadriyatlar",
+      "v1": { "text": "Sharq va G'arbni bog'lovchi haqiqiy ko'prik bo'lamiz.", "title": "Aloqa" },
+      "v2": { "text": "Memorandum, kelishuv, va'da — barchasi hujjat bilan tasdiqlanadi.", "title": "Ishonchlilik" },
+      "v3": { "text": "Madaniyatlararo hurmat va ochiq muloqot orqali ishlaymiz.", "title": "Ochiqlik" },
+      "v4": { "text": "Uchrashuv emas — bitim. Forum emas — shartnoma.", "title": "Natijaga yo'naltirilganlik" },
+      "v5": { "text": "Qozog'iston tadbirkorining manfaatlarini birinchi o'ringa qo'yamiz.", "title": "Milliy manfaat" }
+    },
+    "vision": {
+      "chip": "Kelajak qiyofasi — 2030",
+      "text": "UU — 2030-yilga borib Qozog'iston–Xitoy–Markaziy Osiyo yo'lagidagi eng ishonchli tadbirkorlar uyushmasi: 6 mamlakatda hamkorlik, Xorgos xabi negizida kengaytirilgan infratuzilma, minglab real amalga oshirilgan bitimlar."
+    },
+    "why": {
+      "b1": "<strong style=\"color:var(--gold-light);\">01 —</strong> Ko'plab qozog'istonlik tadbirkorlar Xitoy bozoriga chiqishni orzu qiladi, lekin til, aloqa va ishonch tizimi yo'qligi sababli boshlamaydi. UU shu bo'shliqni to'ldiradi.",
+      "b2": "<strong style=\"color:var(--gold-light);\">02 —</strong> «Bir kamar, bir yo'l» yo'lagida infratuzilma bor, lekin uni tadbirkor darajasida ishlatish murakkab. UU Xorgos xabi orqali bu yo'lni qisqartiradi.",
+      "b3": "<strong style=\"color:var(--gold-light);\">03 —</strong> Markaziy Osiyo mamlakatlari tadbirkorlari bir-biri bilan emas, har biri alohida Xitoy bilan aloqa qilishga harakat qiladi. UU umumiy platforma orqali birlashgan kuch yaratadi.",
+      "b4": "<strong style=\"color:var(--gold-light);\">04 —</strong> Rasmiy memorandumlar va aloqalar ko'pincha davlatlararo darajada qolib, tadbirkorga yetib bormaydi. UU bu aloqalarni haqiqiy biznes imkoniyatiga aylantiradi.",
+      "heading": "«Nega UU tashkil etildi?» degan savolga javob:"
+    }
+  },
+  "common": {
+    "aria": { "next": "Keyingi", "prev": "Oldingi" },
+    "brand": { "subtitle": "KZ · CN · Markaziy Osiyo" },
+    "country": {
+      "cn": "Xitoy",
+      "kg": "Qirg'iziston",
+      "kz": "Qozog'iston",
+      "other": "Boshqa",
+      "tj": "Tojikiston",
+      "tr": "Turkiya",
+      "us": "AQSH",
+      "uz": "O'zbekiston"
+    },
+    "cta": {
+      "all_reviews": "Barcha fikrlarni ko'rish →",
+      "member_connect": "A'zo bo'lish — aloqa o'rnatish →",
+      "member_short": "A'zo bo'lish →",
+      "member_want": "A'zo bo'lishni xohlayman →"
+    },
+    "final": { "text": "Aloqa ma'lumotingizni qoldiring — menejer bog'lanadi." },
+    "footer": {
+      "address": "Almati viloyati, Qorasoy tumani, Kaskelen shahri",
+      "copyright": "© 2026 UU — Qozog'iston–Xitoy–Markaziy Osiyo tadbirkorlar uyushmasi · uu.kz",
+      "description": "«Bir kamar, bir yo'l» dasturi doirasida Qozog'iston, Xitoy va Markaziy Osiyo tadbirkorlarini birlashtiruvchi ekotizim.",
+      "legal_rep": "Qozog'iston tomonidagi vakil: «SAMGA-NIITS» MChJ · BIN 251240024285",
+      "legal_rep_chip": "Qozog'iston tomonidagi vakil",
+      "nav_heading": "Navigatsiya",
+      "tagline": "«Bir yo'l — ming imkoniyat. Sharq va G'arb birga rivojlanadi.»"
+    },
+    "form": {
+      "country": "Mamlakat",
+      "country_ph": "Mamlakatingizni tanlang",
+      "email": "Email",
+      "email_ph": "email@company.com",
+      "industry": "Biznes sohasi",
+      "industry_ph": "Yo'nalishni tanlang",
+      "message": "Xabar",
+      "name": "F.I.Sh.",
+      "name_ph": "F.I.Sh. kiriting",
+      "phone": "Telefon raqami",
+      "phone_ph": "+7 (___) ___-__-__",
+      "success_chip": "✓ Qabul qilindi"
+    },
+    "industry": {
+      "i1": "Qishloq xo'jaligi",
+      "i10": "Turizm va HORECA",
+      "i11": "Qurilish va ko'chmas mulk",
+      "i12": "Eksport-import yo'nalishi",
+      "i2": "Chorvachilik",
+      "i3": "Qishloqni rivojlantirish",
+      "i4": "IT va sun'iy intellekt",
+      "i5": "Ishlab chiqarish va sanoat",
+      "i6": "Savdo va reyteyl",
+      "i7": "Sog'liqni saqlash va tibbiyot",
+      "i8": "Ta'lim va HR",
+      "i9": "Moliya va investitsiya"
+    },
+    "nav": {
+      "about": "Uyushma haqida",
+      "community": "Hamjamiyat",
+      "contact": "Aloqa",
+      "directions": "Yo'nalishlar",
+      "home": "Bosh sahifa",
+      "international": "Xalqaro aloqalar",
+      "khorgos": "Xorgos Xabi",
+      "membership": "A'zolik",
+      "people": "Hamjamiyat shaxslari",
+      "people_short": "Shaxslar",
+      "reviews": "Fikrlar",
+      "services": "Xizmatlar"
+    },
+    "popup": {
+      "eyebrow": "UU uyushmasi",
+      "note": "Ma'lumotlar uchinchi tomonga berilmaydi. Spam yo'q.",
+      "phone_label": "Telefon raqami",
+      "success_text": "Rahmat! Menejer tez orada bog'lanadi.",
+      "text": "Aloqa ma'lumotingizni qoldiring — menejer bog'lanib, uyushma haqidagi barcha savollaringizga javob beradi.",
+      "title": "UU haqida bilishni xohlaysizmi?"
+    },
+    "t": {
+      "erlan": { "quote": "UU'ning Xorgos xabi orqali xitoylik hamkorim bilan bir kunda kelishuvga erishdik.", "role": "Eksportchi tadbirkor" },
+      "liwei": { "quote": "Xorgos ofisida tovar namunasini bevosita ko'rsatib, o'sha yerda shartnoma imzoladik." }
+    },
+    "testimonials": { "eyebrow": "Ishonch ovozi", "title": "Hamkorlar nima deydi" }
+  },
+  "contact": {
+    "card": {
+      "hours_label": "Ish vaqti",
+      "hours_value": "Dushanba–juma, 09:00–18:00",
+      "khorgos_address": "Xorgos XXHM, UU ofisi va mehmonxonasi <span style=\"color:var(--muted-2); font-size:12.5px;\">(aniqlanmoqda)</span>",
+      "khorgos_label": "Xorgos xabi",
+      "messengers_label": "WhatsApp / Telegram / WeChat",
+      "office_label": "Qozog'istondagi ofis",
+      "wechat_soon": "WeChat — tez orada"
+    },
+    "form": {
+      "message_ph": "Savolingiz, biznesingiz haqida qisqacha...",
+      "submit": "ARIZANI YUBORISH →",
+      "success_text": "Rahmat! Menejer 24 soat ichida bog'lanadi.",
+      "title": "Ariza qoldiring"
+    },
+    "hero": {
+      "lead": "A'zolik savolimi? Hamkorlik taklif qilyapsizmi? Xorgos xabiga safar kerakmi? Menejer 24 soat ichida javob beradi.",
+      "title": "Biz bilan bog'laning"
+    },
+    "legal": {
+      "address_line": "Manzil: Almati viloyati, Qorasoy tumani, Kaskelen shahri, Ko'kbastau ko'chasi, 5-ofis",
+      "company_name": "«SAMGA-NIITS» MChJ"
+    },
+    "meta": {
+      "description": "UU bilan bog'laning. A'zolik, hamkorlik, Xorgosga safar. Menejer 24 soat ichida javob beradi.",
+      "title": "Aloqa — UU"
+    },
+    "office": { "address": "Almati viloyati, Qorasoy tumani, Kaskelen shahri, Ko'kbastau ko'chasi, 5-ofis" }
+  },
+  "directions": {
+    "cta": { "title": "O'z yo'nalishingizni toping — soha ekspertlari bilan bog'laning" },
+    "d1": { "leader": "Rahbari: soha mutaxassisi / akademik", "text": "G'alla, bog'-dorchilik, agrotexnologiya. Xitoyga eksport uchun sertifikatlash va tayyorgarlik." },
+    "d10": { "leader": "Rahbari: turizm tadbirkori", "text": "Ichki va transchegaraviy turizm, mehmonxona. Xorgos turlari." },
+    "d11": { "leader": "Rahbari: qurilish kompaniyasi rahbari", "text": "Development, materiallar. Xorgos infratuzilma loyihalari." },
+    "d12": { "leader": "Rahbari: tashqi savdo mutaxassisi", "text": "Xitoy, Markaziy Osiyo, Turkiya, AQSh yo'nalishlari bo'yicha savdo operatsiyalari." },
+    "d2": { "leader": "Rahbari: qishloq tadbirkori / zootexnik", "text": "Go'sht, sut, jun, veterinariya. Eksportga tayyorgarlik, sertifikatlash." },
+    "d3": { "leader": "Rahbari: mintaqaviy rivojlanish eksperti", "text": "Qishloq infratuzilmasi, kooperativlar. Chegara oldi tumanlarining imkoniyati." },
+    "d4": { "leader": "Rahbari: IT eksperti", "text": "Raqamli yechimlar, sun'iy intellekt, avtomatlashtirish. Xitoy bilan texnologiya transferi." },
+    "d5": { "leader": "Rahbari: sanoat tadbirkori", "text": "Yengil sanoat, qayta ishlash. Qo'shma ishlab chiqarish loyihalari." },
+    "d6": { "leader": "Rahbari: savdo tarmog'i egasi", "text": "Onlayn/oflayn savdo, marketpleys. Xorgos orqali ulgurji savdo." },
+    "d7": { "leader": "Rahbari: tibbiyot tadbirkori", "text": "Klinika, farmatsevtika. Xitoy uskunasi va dori-darmonlari bilan aloqa." },
+    "d8": { "leader": "Rahbari: ta'lim tadbirkori", "text": "O'quv markazlari, til tayyorgarligi (xitoy tili). Kadrlar almashinuvi dasturlari." },
+    "d9": { "leader": "Rahbari: moliya eksperti", "text": "Investitsiya jalb qilish, fintex. UU Investment tarmog'i." },
+    "hero": {
+      "eyebrow": "Klasterlar",
+      "lead": "UU — oddiy uyushma emas. 12 ixtisoslashtirilgan soha yo'nalishi — har biri Xitoy va Markaziy Osiyo bozoriga chiqish uchun moslashtirilgan. Yo'nalishni soha mutaxassisi yoki tajribali tadbirkor boshqaradi.",
+      "title": "12 yo'nalish — o'z sohangizning savdo yo'lagi"
+    },
+    "meta": {
+      "description": "12 ixtisoslashtirilgan soha yo'nalishi: qishloq xo'jaligi, IT, eksport va boshqalar. Soha mutaxassislari boshqaradi.",
+      "title": "12 yo'nalish — UU"
+    }
+  },
+  "home": {
+    "final": { "title": "Hamkor topishga tayyormisiz?" },
+    "hero": {
+      "cta_khorgos": "Xorgos xabi haqida bilish →",
+      "eyebrow": "一带一路 · «Bir kamar, bir yo'l» tashabbusi",
+      "lead": "UU — «Bir kamar, bir yo'l» dasturi doirasida ishlaydigan Qozog'iston–Xitoy–Markaziy Osiyo tadbirkorlar uyushmasi. Xorgos chegarasidagi o'z xabimiz orqali hamkorlikni bir necha soatda haqiqiy bitimga aylantiramiz.",
+      "title": "Bir yo'l — ming imkoniyat.<br>\n          <span class=\"text-gold-gradient\">Sharq va G'arb</span> aynan shu yerda uchrashadi."
+    },
+    "lead": {
+      "note": "Ma'lumotlar saqlanadi. Spam yo'q.",
+      "success_text": "Menejer tez orada bog'lanadi.",
+      "text": "Aloqa ma'lumotingizni qoldiring — menejer 24 soat ichida bog'lanadi.",
+      "title": "UU a'zosi bo'lishni xohlaysizmi?"
+    },
+    "meta": {
+      "description": "UU — «Bir kamar, bir yo'l» dasturi doirasida ishlaydigan tadbirkorlar uyushmasi. Xorgos xabi, 6 mamlakatlik hamkorlik.",
+      "title": "UU — Qozog'iston–Xitoy–Markaziy Osiyo tadbirkorlar uyushmasi"
+    },
+    "problem": {
+      "eyebrow": "Tanish vaziyatmi?",
+      "p1": "«Xitoy bozoriga chiqmoqchiman, lekin til va aloqa to'sig'i bor»",
+      "p2": "«Hamkor topish uchun Xitoyga bormoqchiman — viza, logistika, vaqt qimmatga tushadi»",
+      "p3": "«Rasmiy memorandum/hamkorlik qanday tuzilishini bilmayman»",
+      "p4": "«Markaziy Osiyo mamlakatlariga chiqish yo'li noaniq»",
+      "p5": "«Eksport uchun sertifikatlash, bojxona tartib-qoidalari qiyin»",
+      "p6": "«Investor izlayapman, kimga ishonishni bilmayman»",
+      "title": "Tadbirkorning muammosi — UU yechimi"
+    },
+    "solution": {
+      "s1": "UU'ning Xorgosdagi ofisi va tarjima-vositachilik xizmati bevosita hal qiladi",
+      "s2": "Xorgos xabida bir kunda uchrashuv, muzokara, tovar namunasi bilan tanishish",
+      "s3": "UU'ning Xitoy palatalari bilan mavjud memorandumi orqali tezda qo'shilasiz",
+      "s4": "5 mamlakatlik mintaqaviy hamkorlik tarmog'i — bitta platforma orqali mavjud",
+      "s5": "UU'da tajribali logistika va bojxona vositachilari bor",
+      "s6": "Tekshirilgan xitoylik va mahalliy investorlar tarmog'i"
+    },
+    "stat": {
+      "countries": "mamlakat bo'yicha hamkorlik",
+      "directions": "soha yo'nalishi",
+      "khorgos_hub": "Xorgos xabi",
+      "since": "yildan beri yo'lakda"
+    },
+    "t": {
+      "dinara": { "quote": "Memorandumlar tarmog'i orqali Toshkentdagi hamkor bilan aloqa juda tez o'rnatildi.", "role": "To'qimachilik ishlab chiqaruvchisi" },
+      "liwei": { "role": "Xitoylik hamkor" }
+    },
+    "why": {
+      "card1": { "text": "Xususiy mehmonxona va ofis — Markaziy Osiyo va Xitoy biznesining eng tez uchrashuv nuqtasi. Viza va logistika to'siqlari minimallashtirilgan.", "title": "01 · Xorgos Xabi" },
+      "card2": { "text": "Xitoyning yirik biznes uyushmalari va tadbirkorlar palatasi, shuningdek Qozog'istondagi siyosiy-tadbirkorlik tashkilotlari bilan imzolangan hamkorlik.", "title": "02 · Rasmiy memorandumlar" },
+      "card3": { "text": "Xitoy, O'zbekiston, Qirg'iziston, Tojikiston, Turkiya, AQSh — bitta uyushma orqali mavjud.", "title": "03 · 6 mamlakatlik xalqaro tarmoq" },
+      "card4": { "text": "Qishloq xo'jaligidan IT'gacha — har bir yo'nalishni soha mutaxassisi boshqaradi.", "title": "04 · 12 soha yo'nalishi" },
+      "card5": { "text": "Va'da emas — haqiqiy bitim, tekshirilgan hamkor, o'lchanadigan natija.", "title": "05 · Natijaga yo'naltirilganlik" },
+      "card6": { "text": "Tarjimadan bojxona tartib-qoidalarigacha — «bitta oyna» tamoyili.", "title": "06 · To'liq qo'llab-quvvatlash" },
+      "eyebrow": "Afzalliklar",
+      "title": "Nega UU?"
+    }
+  },
+  "intl": {
+    "china": {
+      "chip": "Strategik ustuvorlik",
+      "col1": "Hamkor",
+      "col2": "Hamkorlik formati",
+      "r1c1": "Xitoy xalqaro savdo-sanoat palatasi (CCPIT)",
+      "r1c2": "Rasmiy memorandum, qo'shma forumlar va B2B uchrashuvlar",
+      "r2c1": "Mintaqaviy xitoy biznes uyushmalari",
+      "r2c2": "Bevosita hamkorlik, Xorgos xabi orqali doimiy aloqa",
+      "r3c1": "Xitoy investitsiya-savdo palatalari",
+      "r3c2": "Investitsiya jalb qilish, qo'shma loyihalarni skrining qilish",
+      "text": "Xitoy — Qozog'istonning yirik savdo hamkori va «Bir kamar, bir yo'l» tashabbusining boshlanish nuqtasi. UU Xitoyning turli biznes uyushmalari va eng yuqori tadbirkorlar palatasi bilan memorandum asosida rasmiy hamkorlikda."
+    },
+    "country": {
+      "kg": { "dir": "Eksport va SME birlashmalari bilan hamkorlik", "name": "Qirg'iziston", "opp": "Imkoniyat: chorvachilik, qishloq xo'jaligi" },
+      "tj": { "dir": "Sanoat palatasi bilan aloqa", "name": "Tojikiston", "opp": "Imkoniyat: tikuvchilik, meva-rezavor mahsulotlari" },
+      "tr": { "dir": "Turk tadbirkorlar palatasi bilan memorandum", "name": "Turkiya", "opp": "Imkoniyat: to'qimachilik, qurilish, logistika" },
+      "us": { "dir": "Amerika–Qozog'iston biznes kengashi bilan aloqa", "name": "AQSH", "opp": "Imkoniyat: investitsiya, texnologiya transferi" },
+      "uz": { "dir": "Tadbirkorlar palatalari bilan memorandum, savdo yo'lagi", "name": "O'zbekiston", "opp": "Imkoniyat: to'qimachilik, oziq-ovqat, turizm" }
+    },
+    "cta": { "button": "Bog'lanish →", "title": "Xalqaro hamkor izlayapsizmi?" },
+    "goals": {
+      "eyebrow": "Yo'nalish",
+      "g1": "6 mamlakat tadbirkorlarini bitta platformada birlashtirish",
+      "g2": "Xorgos xabi orqali Xitoy bozoriga bevosita chiqish",
+      "g3": "Markaziy Osiyo ichidagi savdo yo'lagini rivojlantirish",
+      "g4": "Mahalliy mahsulotni eksportga tayyorlash — sertifikatlash, standart",
+      "g5": "Memorandum asosida davlatlararo aloqani tadbirkor darajasiga tushirish",
+      "g6": "Qo'shma investitsiya va forumlarni tashkil etish",
+      "title": "Asosiy maqsadlar"
+    },
+    "hero": {
+      "eyebrow": "6 mamlakat · 1 ekotizim",
+      "lead": "UU Xitoy, Markaziy Osiyo mamlakatlari, Turkiya va AQShning yetakchi biznes tuzilmalari bilan rasmiy memorandum asosida ishlaydi.",
+      "title": "Bitta uyushma — olti mamlakat"
+    },
+    "meta": {
+      "description": "UU'ning Xitoy, O'zbekiston, Qirg'iziston, Tojikiston, Turkiya, AQSh bilan memorandumlari va hamkorligi.",
+      "title": "Xalqaro aloqalar — UU"
+    },
+    "network": { "eyebrow": "Mintaqaviy tarmoq", "title": "Markaziy Osiyo, Turkiya, AQSh hamkorlik tarmog'i" },
+    "roadmap": {
+      "eyebrow": "Yo'l xaritasi",
+      "title": "Rivojlanish yo'l xaritasi",
+      "y2026": "Xorgos xabi to'liq ish rejimida. O'zbekiston, Qirg'iziston memorandumlari imzolandi.",
+      "y2027": "Tojikiston, Turkiya tarmog'i qo'shildi. Birinchi Qozog'iston–Xitoy biznes forumi (Almati).",
+      "y2028": "AQSh yo'nalishi ochildi. Qo'shma eksport bitimlari soni 100 dan oshdi.",
+      "y2030": "UU — mintaqadagi eng ishonchli Qozog'iston–Xitoy–Markaziy Osiyo yo'lagi."
+    }
+  },
+  "khorgos": {
+    "cta": { "button": "Safar so'rash →", "title": "Xorgos xabida hamkor topishga tayyormisiz?" },
+    "hero": {
+      "cta": "Xorgos xabiga safarni tashkil qilish →",
+      "eyebrow": "UU'ning asosiy afzalligi",
+      "lead": "Qozog'iston–Xitoy chegarasida joylashgan UU'ning xususiy mehmonxonasi va ofisi — Markaziy Osiyo tadbirkorlari va Xitoy biznesining eng tez uchrashuv nuqtasi. Bir safar — bir bitim.",
+      "title": "Xorgos — chegara emas, imkoniyat"
+    },
+    "meta": {
+      "description": "UU'ning Xorgos chegarasidagi xususiy mehmonxonasi va ofisi. Xitoy va Markaziy Osiyo tadbirkorlarining uchrashuv nuqtasi.",
+      "title": "Xorgos Xabi — UU"
+    },
+    "steps": {
+      "eyebrow": "Jarayon",
+      "s1": { "text": "UU a'zosi bo'lib, Xorgos safariga buyurtma berasiz.", "title": "Ariza" },
+      "s2": { "text": "UU hamkorlar bazasidan sizga mos xitoylik/mintaqaviy kompaniyani tanlaydi.", "title": "Moslashtirish" },
+      "s3": { "text": "Xorgos xabida yuzma-yuz muzokara, tovar namunasi bilan tanishish.", "title": "Uchrashuv" },
+      "s4": { "text": "Shartnoma, bojxona va logistika qo'llab-quvvatlashi — UU to'liq yordam ko'rsatadi.", "title": "Bitim" },
+      "title": "Xorgos orqali yo'l — 4 qadam"
+    },
+    "what": {
+      "c1": { "text": "Hamkorlaringiz bilan birga yashab, istalgan vaqtda uchrashuv tashkil qilishingiz mumkin.", "title": "Xususiy mehmonxona" },
+      "c2": { "text": "Tarjimon va yurist ishtirokida rasmiy muzokara.", "title": "Bevosita muzokara xonalari" },
+      "c3": { "text": "Xitoylik hamkorlar mahsulotlarini bevosita shu yerda ko'rsatadi.", "title": "Tovar namunalari ko'rgazma zali" },
+      "c4": { "text": "Bitim huquqiy qo'llab-quvvatlash bilan o'sha yerda rasmiylashtiriladi.", "title": "Shartnomani imzolash" },
+      "c5": { "text": "Xabda o'tirgan holda tovaringizning yo'l xaritasini tuzasiz.", "title": "Logistika va bojxona maslahati" },
+      "c6": { "text": "Til to'sig'i to'liq bartaraf etiladi.", "title": "Tarjima va vositachilik xizmati" },
+      "eyebrow": "Imkoniyatlar",
+      "title": "Xorgos xabida nima qilasiz?"
+    },
+    "why": {
+      "p1": "Xorgos xalqaro chegara hamkorlik markazi — 2012-yildan ishlaydigan erkin savdo hududi, bugungi kunda bu yerda <strong style=\"color:var(--gold-light);\">1200 dan ortiq korxona</strong> va <strong style=\"color:var(--gold-light);\">40 dan ortiq mamlakat</strong> tovarlari jamlangan.",
+      "p2": "2026-yildan boshlab Qozog'iston va Xitoy o'rtasida <strong style=\"color:var(--gold-light);\">o'zaro vizasiz rejim</strong> joriy etildi — bu UU hamkorlariga chegaradan avvalgidan ham tezroq o'tish imkonini beradi.",
+      "p3": "UU'ning xususiy ofisi va mehmonxonasi aynan shu hududda joylashgan — siz rasmiy mehmon sifatida, viza va logistika tashvishisiz muzokara olib borasiz.",
+      "source": "Manba: Xorgos XXHM va Qozog'iston–Xitoy vizasiz rejimi haqidagi rasmiy ma'lumotlar versiyalashdan oldin aniqlashtiriladi."
+    }
+  },
+  "membership": {
+    "benefits": {
+      "b1": "Xorgos xabiga kirish imkoniyati — shaxsiy uchrashuv, muzokara xonalari",
+      "b2": "Xitoy va Markaziy Osiyo hamkorlar bazasiga bevosita kirish",
+      "b3": "Memorandum asosidagi rasmiy aloqalar (CCPIT va boshqa palatalar)",
+      "b4": "Tarjima, huquqiy va bojxona vositachilik xizmati",
+      "b5": "12 soha yo'nalishi bo'yicha soha ekspertlarining qo'llab-quvvatlashi",
+      "b6": "Investor izlash va pitch tayyorlashda yordam",
+      "b7": "B2B networking — tekshirilgan hamkorlar",
+      "b8": "UU App — a'zolik, hamkorlar bazasi, yangiliklar bitta ilovada",
+      "b9": "Forumlar, biznes-safarlar, Xorgos ekskursiyalari",
+      "eyebrow": "Afzalliklar",
+      "title": "Nima olasiz?"
+    },
+    "final": { "title": "A'zo bo'lishni xohlaysizmi?" },
+    "form": {
+      "lead": "Aloqa ma'lumotingizni qoldiring — menejer 24 soat ichida bog'lanib, barcha ma'lumotni beradi. Hech qanday majburiyat yo'q.",
+      "message_ph": "Qisqacha: biznesingiz haqida yoki savolingiz...",
+      "success_text": "Rahmat! Menejer 24 soat ichida bog'lanadi va barcha savollaringizga javob beradi.",
+      "title": "A'zo bo'lishni xohlaysizmi?"
+    },
+    "hero": {
+      "eyebrow": "Tarifsiz taklif",
+      "lead": "UU — Qozog'iston, Xitoy va Markaziy Osiyo o'rtasida ishlaydigan tadbirkorlar uyushmasi. Xorgos xabi, memorandumlar tarmog'i, tarjima va bojxona yordami — barchasi bitta joyda. A'zolik haqida to'liq ma'lumot olish uchun aloqa ma'lumotingizni qoldiring — menejer bog'lanadi.",
+      "title": "A'zolikka bir qadam qoldi"
+    },
+    "meta": {
+      "description": "UU a'zosi bo'ling. Aloqa ma'lumotingizni qoldiring — menejer barcha ma'lumotni beradi.",
+      "title": "A'zolik — UU"
+    },
+    "t": {
+      "berik": { "quote": "Memorandumlar tarmog'i orqali rasmiy hamkorlikka tezda erishdik.", "role": "Kompaniya direktori" },
+      "dinara": { "quote": "Xorgos xabida tovar namunasini ko'rsatib, o'sha yerda bitimga erishdik." },
+      "erlan": { "quote": "UU orqali xitoylik hamkor bilan aloqa 6 oydan 3 haftagacha qisqardi." }
+    },
+    "trust": { "eyebrow": "Ishonch bloki", "title": "A'zolarning fikri" }
+  },
+  "people": {
+    "c1": { "text": "Qozog'iston, Xitoy va Markaziy Osiyodagi muvaffaqiyatli tadbirkorlar va kompaniya rahbarlari", "title": "01 · Biznesmenlar" },
+    "c2": { "text": "Loyihalarga mablag' ajratuvchi xususiy va institutsional investorlar", "title": "02 · Investorlar" },
+    "c3": { "text": "Tadbirkorlik manfaatlarini davlat darajasida qo'llab-quvvatlaydigan siyosiy vakillar", "title": "03 · Siyosatchilar" },
+    "c4": { "text": "Savdo, logistika va muzokaralar bo'yicha vositachi agentlar", "title": "04 · Agentlar" },
+    "c5": { "text": "Davlat va xususiy tashkilotlar rahbarlari", "title": "05 · Rahbarlar" },
+    "c6": { "text": "Huquq, moliya, bojxona, sertifikatlash bo'yicha tajribali mutaxassislar", "title": "06 · Mutaxassislar" },
+    "c7": { "text": "Yirik kompaniyalarning yuqori bo'g'in rahbarlari", "title": "07 · Top-menejerlar" },
+    "c8": { "text": "Soha bo'yicha akademik va ilmiy ekspertlar", "title": "08 · Olimlar" },
+    "cta": { "title": "Hamjamiyat shaxslari safiga qo'shiling" },
+    "hero": {
+      "eyebrow": "Aloqa va tajriba",
+      "lead": "Biznesmenlardan olimlargacha — UU atrofida to'plangan odamlar uyushmaning haqiqiy kuchi. Har bir toifada profil: F.I.Sh., lavozimi, mamlakati, yutug'i.",
+      "title": "UU shaxslari"
+    },
+    "meta": {
+      "description": "UU atrofidagi biznesmenlar, investorlar, siyosatchilar, olimlar va boshqa shaxslar.",
+      "title": "Hamjamiyat shaxslari — UU"
+    },
+    "note": "Har bir toifaning profillari asta-sekin to'ldiriladi. Vakolatli a'zolar va hamkorlar kelgusida shu yerda taqdim etiladi."
+  },
+  "reviews": {
+    "cat": {
+      "central_asia": "Markaziy Osiyolik hamkor",
+      "china": "Xitoylik hamkor",
+      "investor": "Investor",
+      "member_kz": "A'zo · Qozog'iston"
+    },
+    "cta": { "title": "O'z tajribangiz bilan bo'lishmoqchimisiz?" },
+    "g1": "Hamkorlik uchrashuvi",
+    "g10": "Hamkorlik uchrashuvi",
+    "g11": "Delegatsiya safari",
+    "g12": "Biznes uchrashuv",
+    "g13": "Hamkorlik safari",
+    "g2": "Xalqaro delegatsiya",
+    "g3": "Muzokara stoli",
+    "g4": "Rasmiy uchrashuv",
+    "g5": "Delegatsiya a'zolari",
+    "g6": "Biznes forum",
+    "g7": "Hamkorlar bilan uchrashuv",
+    "g8": "Xalqaro aloqa",
+    "g9": "Shartnomani imzolash",
+    "gallery": {
+      "eyebrow": "Galereya",
+      "lead": "UU hamkorlarining Xorgos xabidagi va xalqaro delegatsiyalardagi lahzalari.",
+      "note": "Fotolar vaqtinchalik qo'yilgan — loyiha rivojlangani sari yangilanadi.",
+      "title": "Uchrashuvlar va muzokaralar"
+    },
+    "hero": { "lead": "Xorgos xabidan memorandumlar tarmog'igacha — UU a'zolari va hamkorlarining haqiqiy tajribasi." },
+    "meta": {
+      "description": "UU a'zolari va xalqaro hamkorlarining haqiqiy fikrlari va natijalari.",
+      "title": "Fikrlar — UU"
+    },
+    "t": {
+      "dinara": { "role": "To'qimachilik ishlab chiqaruvchisi" },
+      "dinara_investor": { "quote": "Tekshirilgan loyihalar bazasi va UU vositachiligi qaror qabul qilishni osonlashtirdi." },
+      "erlan": { "quote": "UU orqali birinchi eksport bitimimizni 3 haftada amalga oshirdik." },
+      "jasur": { "quote": "UU tarmog'i orqali Qozog'iston bozoriga chiqish yo'limiz qisqardi.", "role": "O'zbekistonlik tadbirkor" },
+      "liwei": { "quote": "Xorgos xabi — biz uchun ham, qozog'istonlik hamkorlar uchun ham eng qulay uchrashuv joyi.", "role": "Kompaniya direktori" }
+    }
+  },
+  "services": {
+    "cta": { "button": "A'zo bo'lish — xizmatlarga kirish →" },
+    "hero": {
+      "eyebrow": "10 yo'nalish",
+      "lead": "UU'da 10 yo'nalish bo'yicha xizmat mavjud. Memorandumdan Xorgos xabigacha. Mutaxassis faqat natija bergandagina komissiya oladi — bu bizni boshqa vositachi tashkilotlardan ajratib turadi.",
+      "note": "Va'da emas — natija. Komissiya faqat haqiqiy natijaga erishilganda hisoblanadi.",
+      "title": "Haqiqiy aloqa — haqiqiy bitim"
+    },
+    "hub": {
+      "chip": "UU Xorgos xabi — maxsus xizmat",
+      "text": "Xorgos xabining operatsion jamoasi — hamkor topish, uchrashuv tashkil qilish, tarjima va huquqiy qo'llab-quvvatlash orqali tadbirkorlarning bitimini tezlashtiradi."
+    },
+    "meta": {
+      "description": "10 xizmat yo'nalishi: memorandum, tarjima, logistika, investitsiya. Natija bo'lmasa — to'lov yo'q printsipi.",
+      "title": "Xizmatlar — UU"
+    },
+    "s1": { "text": "Xitoy va Markaziy Osiyo palatalari bilan hamkorlik o'rnatish, rasmiy hujjatlarni tayyorlash.", "title": "Rasmiy aloqa va memorandum tashkil etish", "trigger": "Hisob: memorandum imzolanganda" },
+    "s10": { "badge": "Kelishuv", "text": "Bozorga chiqish, bojxona, logistika bo'yicha kurslar.", "title": "Eksport bo'yicha o'qitish va seminarlar", "trigger": "Hisob: kurs tugaganda" },
+    "s2": { "text": "Muzokara, hujjat, uchrashuv davomida to'liq til qo'llab-quvvatlashi.", "title": "Tarjima va madaniyatlararo vositachilik", "trigger": "Hisob: xizmat ko'rsatilganda" },
+    "s3": { "text": "Mos hamkorni topish, uchrashuvni xabda tashkil qilish.", "title": "Xorgos xabi orqali hamkor uchrashuvini tashkil etish", "trigger": "Hisob: uchrashuv o'tganda" },
+    "s4": { "text": "Tovar harakatini rejalashtirish, bojxona hujjatlari.", "title": "Logistika va bojxona rasmiylashtiruvi", "trigger": "Hisob: tovar o'tganda" },
+    "s5": { "text": "Mahsulotni xalqaro standartga moslashtirish.", "title": "Sertifikatlash va eksport standartlashtirish", "trigger": "Hisob: sertifikat olinganda" },
+    "s6": { "text": "Investor izlash, pitch-dek tayyorlash, uchrashuv tashkil qilish.", "title": "Investitsiya jalb qilish va pitch tayyorlash", "trigger": "Hisob: investitsiya olinganda" },
+    "s7": { "text": "Shartnoma, bojxona huquqi bo'yicha yuridik maslahat.", "title": "Xalqaro huquqiy qo'llab-quvvatlash", "trigger": "Hisob: maslahat berilganda" },
+    "s8": { "text": "Soha, narx, raqobat bo'yicha aniq hisobot.", "title": "Bozorga kirish tahlili (Xitoy/Markaziy Osiyo)", "trigger": "Hisob: hisobot topshirilganda" },
+    "s9": { "text": "UU ichidagi tadbirkorlar o'rtasida qo'shma loyihalar.", "title": "B2B networking va hamkorlik", "trigger": "Hisob: hamkorlik bo'lganda" }
+  }
+}

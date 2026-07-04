@@ -4,33 +4,51 @@
       <span class="brand-badge"><img src="assets/img/logo/logo-badge.png" alt="UU логотипі" /></span>
       <span>
         <span class="brand-name">UU</span>
-        <span class="brand-sub">KZ · CN · Central Asia</span>
+        <span class="brand-sub" data-i18n="common.brand.subtitle">KZ · CN · Central Asia</span>
       </span>
     </a>
 
     <nav class="nav-links" aria-label="Негізгі навигация">
-      <a href="about.html" data-nav-link>Бірлестік туралы</a>
-      <a href="khorgos.html" data-nav-link>Хоргос Хабы</a>
-      <a href="services.html" data-nav-link>Қызметтер</a>
-      <a href="directions.html" data-nav-link>Бағыттар</a>
+      <a href="about.html" data-nav-link data-i18n="common.nav.about">Бірлестік туралы</a>
+      <a href="khorgos.html" data-nav-link data-i18n="common.nav.khorgos">Хоргос Хабы</a>
+      <a href="services.html" data-nav-link data-i18n="common.nav.services">Қызметтер</a>
+      <a href="directions.html" data-nav-link data-i18n="common.nav.directions">Бағыттар</a>
 
       <div class="nav-dropdown" data-dropdown>
         <button type="button" class="nav-dropdown-btn" data-dropdown-btn>
-          Қауымдастық
+          <span data-i18n="common.nav.community">Қауымдастық</span>
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M6 9l6 6 6-6"/></svg>
         </button>
         <div class="nav-dropdown-panel" data-dropdown-panel>
-          <a href="international.html" data-nav-link>Халықаралық байланыстар</a>
-          <a href="people.html" data-nav-link>Қауымдастық тұлғалары</a>
-          <a href="reviews.html" data-nav-link>Пікірлер</a>
+          <a href="international.html" data-nav-link data-i18n="common.nav.international">Халықаралық байланыстар</a>
+          <a href="people.html" data-nav-link data-i18n="common.nav.people">Қауымдастық тұлғалары</a>
+          <a href="reviews.html" data-nav-link data-i18n="common.nav.reviews">Пікірлер</a>
         </div>
       </div>
 
-      <a href="contact.html" data-nav-link>Байланыс</a>
+      <a href="contact.html" data-nav-link data-i18n="common.nav.contact">Байланыс</a>
     </nav>
 
     <div class="nav-actions">
-      <a href="membership.html" class="btn btn-gold btn-sm" style="display:none" data-desktop-cta>Мүше болу →</a>
+      <div class="lang-switch" data-lang-switch>
+        <button type="button" class="lang-trigger" data-lang-trigger aria-label="Тілді таңдау" aria-expanded="false">
+          <svg class="lang-globe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 010 18a14 14 0 010-18z"/></svg>
+          <span class="lang-stack">
+            <span class="lang-current" data-lang-current>ҚАЗ</span>
+            <svg class="lang-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"><path d="M6 9l6 6 6-6"/></svg>
+          </span>
+        </button>
+        <div class="lang-panel" data-lang-panel>
+          <button type="button" class="lang-option" data-lang-option="kk"><span class="lang-code">ҚАЗ</span><span class="lang-name">Қазақша</span></button>
+          <button type="button" class="lang-option" data-lang-option="ru"><span class="lang-code">РУС</span><span class="lang-name">Русский</span></button>
+          <button type="button" class="lang-option" data-lang-option="en"><span class="lang-code">ENG</span><span class="lang-name">English</span></button>
+          <button type="button" class="lang-option" data-lang-option="zh"><span class="lang-code">中文</span><span class="lang-name">中文</span></button>
+          <button type="button" class="lang-option" data-lang-option="uz"><span class="lang-code">UZB</span><span class="lang-name">O'zbekcha</span></button>
+          <button type="button" class="lang-option" data-lang-option="ky"><span class="lang-code">КЫР</span><span class="lang-name">Кыргызча</span></button>
+        </div>
+      </div>
+
+      <a href="membership.html" class="btn btn-gold btn-sm" style="display:none" data-desktop-cta data-i18n="common.cta.member_short">Мүше болу →</a>
       <button type="button" class="hamburger" data-menu-open aria-label="Мәзірді ашу" aria-expanded="false">
         <span></span><span></span><span></span>
       </button>
@@ -51,19 +69,19 @@
       </button>
     </div>
     <nav class="mobile-menu-links" aria-label="Мобиль навигация">
-      <a href="index.html" data-nav-link>Басты бет</a>
-      <a href="about.html" data-nav-link>Бірлестік туралы</a>
-      <a href="khorgos.html" data-nav-link>Хоргос Хабы</a>
-      <a href="international.html" data-nav-link>Халықаралық байланыстар</a>
-      <a href="membership.html" data-nav-link>Мүшелік</a>
-      <a href="services.html" data-nav-link>Қызметтер</a>
-      <a href="directions.html" data-nav-link>Бағыттар</a>
-      <a href="people.html" data-nav-link>Қауымдастық тұлғалары</a>
-      <a href="reviews.html" data-nav-link>Пікірлер</a>
-      <a href="contact.html" data-nav-link>Байланыс</a>
+      <a href="index.html" data-nav-link data-i18n="common.nav.home">Басты бет</a>
+      <a href="about.html" data-nav-link data-i18n="common.nav.about">Бірлестік туралы</a>
+      <a href="khorgos.html" data-nav-link data-i18n="common.nav.khorgos">Хоргос Хабы</a>
+      <a href="international.html" data-nav-link data-i18n="common.nav.international">Халықаралық байланыстар</a>
+      <a href="membership.html" data-nav-link data-i18n="common.nav.membership">Мүшелік</a>
+      <a href="services.html" data-nav-link data-i18n="common.nav.services">Қызметтер</a>
+      <a href="directions.html" data-nav-link data-i18n="common.nav.directions">Бағыттар</a>
+      <a href="people.html" data-nav-link data-i18n="common.nav.people">Қауымдастық тұлғалары</a>
+      <a href="reviews.html" data-nav-link data-i18n="common.nav.reviews">Пікірлер</a>
+      <a href="contact.html" data-nav-link data-i18n="common.nav.contact">Байланыс</a>
     </nav>
     <div class="mobile-menu-footer">
-      <a href="membership.html" class="btn btn-gold" style="width:100%">Мүше болу — байланыс орнатамын →</a>
+      <a href="membership.html" class="btn btn-gold" style="width:100%" data-i18n="common.cta.member_connect">Мүше болу — байланыс орнатамын →</a>
       <p class="form-note" style="text-align:center;">© 2026 UU · uu.kz</p>
     </div>
   </div>
