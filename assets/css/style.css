@@ -316,8 +316,10 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   align-items: center;
   gap: 12px;
   cursor: pointer;
-  flex-shrink: 0;
+  min-width: 0;
+  flex-shrink: 1;
 }
+.brand > span:last-child { min-width: 0; overflow: hidden; }
 .brand-badge {
   width: 44px;
   height: 44px;
@@ -335,6 +337,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   letter-spacing: 0.02em;
   color: var(--cream);
   line-height: 1;
+  white-space: nowrap;
 }
 .brand-sub {
   display: block;
@@ -344,6 +347,10 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   text-transform: uppercase;
   color: var(--muted-2);
   margin-top: 3px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
 }
 
 .nav-links {
@@ -379,7 +386,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
 .nav-links a.active::after { transform: scaleX(1); transform-origin: left; }
 .nav-links a.active { color: var(--gold-light); }
 
-.nav-actions { display: flex; align-items: center; gap: 10px; }
+.nav-actions { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
 [data-desktop-cta] { display: none !important; }
 @media (min-width: 1160px) { [data-desktop-cta] { display: inline-flex !important; } }
 
