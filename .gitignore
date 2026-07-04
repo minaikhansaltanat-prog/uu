@@ -1,0 +1,8 @@
+node_modules/
+temporary screenshots/
+__pycache__/
+*.pyc
+.mcp.json
+.claude/
+.DS_Store
+Thumbs.db
