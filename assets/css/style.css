@@ -641,7 +641,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
    ========================================================= */
 .carousel { position: relative; }
 .car-viewport { overflow: hidden; border-radius: 22px; }
-.car-track { display: flex; will-change: transform; }
+.car-track { display: flex; will-change: transform; transition: transform 600ms var(--ease-spring); }
 .car-slide { flex-shrink: 0; padding: 4px; }
 
 .car-arrow {
