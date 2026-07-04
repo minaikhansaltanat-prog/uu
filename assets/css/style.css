@@ -416,6 +416,14 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   transition: opacity 220ms var(--ease-out), transform 220ms var(--ease-spring);
   z-index: 20;
 }
+.nav-dropdown-panel::before {
+  content: "";
+  position: absolute;
+  top: -14px;
+  left: 0;
+  right: 0;
+  height: 14px;
+}
 .nav-dropdown:hover .nav-dropdown-panel,
 .nav-dropdown.open .nav-dropdown-panel { opacity: 1; pointer-events: auto; transform: translateX(-50%) translateY(0); }
 .nav-dropdown-panel a { padding: 10px 14px; border-radius: 10px; font-size: 13.5px; color: var(--muted); }
