@@ -257,6 +257,56 @@
 
     this.buildDots();
     this.startAutoplay();
+    this.bindSwipe();
+  };
+
+  UUCarousel.prototype.bindSwipe = function () {
+    var self = this;
+    var startX = 0, startY = 0, baseX = 0, dragging = false, locked = null;
+
+    this.viewport.addEventListener("touchstart", function (e) {
+      if (self.animating) return;
+      var t = e.touches[0];
+      startX = t.clientX;
+      startY = t.clientY;
+      baseX = -self.index * self.slideWidth;
+      dragging = true;
+      locked = null;
+      self.stopAutoplay();
+    }, { passive: true });
+
+    this.viewport.addEventListener("touchmove", function (e) {
+      if (!dragging) return;
+      var t = e.touches[0];
+      var dx = t.clientX - startX;
+      var dy = t.clientY - startY;
+      if (locked === null) locked = Math.abs(dx) > Math.abs(dy) ? "x" : "y";
+      if (locked === "y") return;
+      e.preventDefault();
+      self.track.style.transition = "none";
+      self.track.style.transform = "translateX(" + (baseX + dx) + "px)";
+    }, { passive: false });
+
+    this.viewport.addEventListener("touchend", function (e) {
+      if (!dragging) return;
+      dragging = false;
+      if (locked !== "x") { self.startAutoplay(); return; }
+      var dx = e.changedTouches[0].clientX - startX;
+      var threshold = Math.max(40, self.slideWidth * 0.15);
+      self.track.style.transition = "";
+      if (dx <= -threshold) {
+        self.animating = true;
+        self.index += 1;
+        self.jumpTo(self.index, true);
+      } else if (dx >= threshold) {
+        self.animating = true;
+        self.index -= 1;
+        self.jumpTo(self.index, true);
+      } else {
+        self.jumpTo(self.index, true);
+      }
+      self.resetAutoplay();
+    }, { passive: true });
   };
 
   UUCarousel.prototype.buildClones = function () {
